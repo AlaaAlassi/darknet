@@ -9,7 +9,7 @@ For questions or issues please use the [Google Group](https://groups.google.com/
 
 
 # gcc version 
-you need to do this befpre you build
+you need to do this before you build
 ```
  sudo ln -sf gcc-5 /usr/bin/gcc
 ```
